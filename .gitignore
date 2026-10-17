@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets (this project does not need any, but never commit them)
+.env
+.streamlit/secrets.toml
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build / packaging output
+*.egg-info/
+build/
+dist/
+*.zip

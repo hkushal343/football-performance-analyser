@@ -1,0 +1,169 @@
+match_id,date,competition,home_team,away_team,home_score,away_score
+M0001,2024-08-03,Friendly Series,Harbour City FC,Westvale Albion,4,0
+M0002,2024-08-03,Friendly Series,Westvale Albion,Rivermouth Rovers,1,0
+M0003,2024-08-04,Friendly Series,Ashford Wanderers,Millbrook Victoria,1,1
+M0004,2024-08-04,Friendly Series,Lakeside Orient,Oakwood Dynamo,4,3
+M0005,2024-08-05,Friendly Series,Kingsfield Town,Ashford Wanderers,1,1
+M0006,2024-08-05,Friendly Series,Millbrook Victoria,Ashford Wanderers,0,1
+M0007,2024-08-06,Friendly Series,Kingsfield Town,Ashford Wanderers,6,1
+M0008,2024-08-06,Friendly Series,Stonebridge Rangers,Harbour City FC,2,0
+M0009,2024-08-07,Friendly Series,Lakeside Orient,Harbour City FC,0,1
+M0010,2024-08-08,Friendly Series,Ashford Wanderers,Eastgate Athletic,1,2
+M0011,2024-08-09,Friendly Series,Ashford Wanderers,Millbrook Victoria,2,0
+M0012,2024-08-10,Friendly Series,Eastgate Athletic,Harbour City FC,0,1
+M0013,2024-08-17,Premier Division,Eastgate Athletic,Lakeside Orient,3,0
+M0014,2024-08-17,Premier Division,Greenhill Borough,Harbour City FC,0,5
+M0015,2024-08-17,Premier Division,Kingsfield Town,Stonebridge Rangers,3,1
+M0016,2024-08-17,Premier Division,Millbrook Victoria,Rivermouth Rovers,0,2
+M0017,2024-08-17,Premier Division,Northbridge United,Oakwood Dynamo,7,0
+M0018,2024-08-17,Premier Division,Westvale Albion,Ashford Wanderers,3,0
+M0019,2024-08-24,Premier Division,Eastgate Athletic,Stonebridge Rangers,2,1
+M0020,2024-08-24,Premier Division,Greenhill Borough,Rivermouth Rovers,0,0
+M0021,2024-08-24,Premier Division,Kingsfield Town,Ashford Wanderers,1,2
+M0022,2024-08-24,Premier Division,Millbrook Victoria,Northbridge United,0,2
+M0023,2024-08-24,Premier Division,Oakwood Dynamo,Lakeside Orient,1,2
+M0024,2024-08-24,Premier Division,Westvale Albion,Harbour City FC,2,0
+M0025,2024-08-31,Premier Division,Eastgate Athletic,Ashford Wanderers,1,1
+M0026,2024-08-31,Premier Division,Greenhill Borough,Millbrook Victoria,0,2
+M0027,2024-08-31,Premier Division,Kingsfield Town,Harbour City FC,2,1
+M0028,2024-08-31,Premier Division,Northbridge United,Lakeside Orient,4,1
+M0029,2024-08-31,Premier Division,Oakwood Dynamo,Stonebridge Rangers,1,1
+M0030,2024-08-31,Premier Division,Westvale Albion,Rivermouth Rovers,1,0
+M0031,2024-09-04,Challenge Cup,Kingsfield Town,Oakwood Dynamo,4,0
+M0032,2024-09-04,Challenge Cup,Rivermouth Rovers,Ashford Wanderers,0,0
+M0033,2024-09-07,Premier Division,Eastgate Athletic,Harbour City FC,2,1
+M0034,2024-09-07,Premier Division,Greenhill Borough,Northbridge United,1,1
+M0035,2024-09-07,Premier Division,Kingsfield Town,Rivermouth Rovers,1,0
+M0036,2024-09-07,Premier Division,Lakeside Orient,Stonebridge Rangers,3,2
+M0037,2024-09-07,Premier Division,Oakwood Dynamo,Ashford Wanderers,1,2
+M0038,2024-09-07,Premier Division,Westvale Albion,Millbrook Victoria,1,0
+M0039,2024-09-14,Premier Division,Eastgate Athletic,Rivermouth Rovers,0,0
+M0040,2024-09-14,Premier Division,Kingsfield Town,Millbrook Victoria,1,1
+M0041,2024-09-14,Premier Division,Lakeside Orient,Ashford Wanderers,0,1
+M0042,2024-09-14,Premier Division,Northbridge United,Stonebridge Rangers,1,1
+M0043,2024-09-14,Premier Division,Oakwood Dynamo,Harbour City FC,2,4
+M0044,2024-09-14,Premier Division,Westvale Albion,Greenhill Borough,0,1
+M0045,2024-09-18,Challenge Cup,Harbour City FC,Ashford Wanderers,0,1
+M0046,2024-09-18,Challenge Cup,Kingsfield Town,Oakwood Dynamo,3,2
+M0047,2024-09-21,Premier Division,Eastgate Athletic,Millbrook Victoria,2,1
+M0048,2024-09-21,Premier Division,Kingsfield Town,Greenhill Borough,0,1
+M0049,2024-09-21,Premier Division,Lakeside Orient,Harbour City FC,1,5
+M0050,2024-09-21,Premier Division,Oakwood Dynamo,Rivermouth Rovers,0,0
+M0051,2024-09-21,Premier Division,Stonebridge Rangers,Ashford Wanderers,0,0
+M0052,2024-09-21,Premier Division,Westvale Albion,Northbridge United,1,1
+M0053,2024-09-28,Premier Division,Eastgate Athletic,Greenhill Borough,2,0
+M0054,2024-09-28,Premier Division,Kingsfield Town,Westvale Albion,0,1
+M0055,2024-09-28,Premier Division,Lakeside Orient,Rivermouth Rovers,2,1
+M0056,2024-09-28,Premier Division,Northbridge United,Ashford Wanderers,4,1
+M0057,2024-09-28,Premier Division,Oakwood Dynamo,Millbrook Victoria,0,0
+M0058,2024-09-28,Premier Division,Stonebridge Rangers,Harbour City FC,1,2
+M0059,2024-10-02,Challenge Cup,Eastgate Athletic,Ashford Wanderers,1,1
+M0060,2024-10-02,Challenge Cup,Stonebridge Rangers,Millbrook Victoria,3,1
+M0061,2024-10-05,Premier Division,Ashford Wanderers,Harbour City FC,1,0
+M0062,2024-10-05,Premier Division,Eastgate Athletic,Westvale Albion,3,1
+M0063,2024-10-05,Premier Division,Kingsfield Town,Northbridge United,1,0
+M0064,2024-10-05,Premier Division,Lakeside Orient,Millbrook Victoria,3,2
+M0065,2024-10-05,Premier Division,Oakwood Dynamo,Greenhill Borough,1,2
+M0066,2024-10-05,Premier Division,Stonebridge Rangers,Rivermouth Rovers,0,2
+M0067,2024-10-12,Premier Division,Ashford Wanderers,Rivermouth Rovers,0,0
+M0068,2024-10-12,Premier Division,Eastgate Athletic,Kingsfield Town,1,1
+M0069,2024-10-12,Premier Division,Lakeside Orient,Greenhill Borough,3,1
+M0070,2024-10-12,Premier Division,Northbridge United,Harbour City FC,2,1
+M0071,2024-10-12,Premier Division,Oakwood Dynamo,Westvale Albion,2,0
+M0072,2024-10-12,Premier Division,Stonebridge Rangers,Millbrook Victoria,0,0
+M0073,2024-10-16,Challenge Cup,Kingsfield Town,Millbrook Victoria,1,0
+M0074,2024-10-16,Challenge Cup,Millbrook Victoria,Greenhill Borough,0,4
+M0075,2024-10-19,Premier Division,Ashford Wanderers,Millbrook Victoria,1,2
+M0076,2024-10-19,Premier Division,Eastgate Athletic,Northbridge United,1,2
+M0077,2024-10-19,Premier Division,Harbour City FC,Rivermouth Rovers,1,2
+M0078,2024-10-19,Premier Division,Lakeside Orient,Westvale Albion,1,0
+M0079,2024-10-19,Premier Division,Oakwood Dynamo,Kingsfield Town,1,2
+M0080,2024-10-19,Premier Division,Stonebridge Rangers,Greenhill Borough,1,3
+M0081,2024-10-26,Premier Division,Ashford Wanderers,Greenhill Borough,1,1
+M0082,2024-10-26,Premier Division,Harbour City FC,Millbrook Victoria,0,1
+M0083,2024-10-26,Premier Division,Lakeside Orient,Kingsfield Town,0,1
+M0084,2024-10-26,Premier Division,Northbridge United,Rivermouth Rovers,2,1
+M0085,2024-10-26,Premier Division,Oakwood Dynamo,Eastgate Athletic,1,1
+M0086,2024-10-26,Premier Division,Stonebridge Rangers,Westvale Albion,2,1
+M0087,2024-10-30,Challenge Cup,Harbour City FC,Ashford Wanderers,5,2
+M0088,2024-10-30,Challenge Cup,Millbrook Victoria,Lakeside Orient,0,1
+M0089,2024-11-02,Premier Division,Ashford Wanderers,Westvale Albion,0,1
+M0090,2024-11-02,Premier Division,Harbour City FC,Greenhill Borough,0,3
+M0091,2024-11-02,Premier Division,Lakeside Orient,Eastgate Athletic,0,0
+M0092,2024-11-02,Premier Division,Oakwood Dynamo,Northbridge United,2,6
+M0093,2024-11-02,Premier Division,Rivermouth Rovers,Millbrook Victoria,2,0
+M0094,2024-11-02,Premier Division,Stonebridge Rangers,Kingsfield Town,2,2
+M0095,2024-11-09,Premier Division,Ashford Wanderers,Kingsfield Town,4,0
+M0096,2024-11-09,Premier Division,Harbour City FC,Westvale Albion,1,2
+M0097,2024-11-09,Premier Division,Lakeside Orient,Oakwood Dynamo,0,1
+M0098,2024-11-09,Premier Division,Northbridge United,Millbrook Victoria,2,4
+M0099,2024-11-09,Premier Division,Rivermouth Rovers,Greenhill Borough,0,1
+M0100,2024-11-09,Premier Division,Stonebridge Rangers,Eastgate Athletic,2,1
+M0101,2024-11-13,Challenge Cup,Ashford Wanderers,Greenhill Borough,2,0
+M0102,2024-11-13,Challenge Cup,Millbrook Victoria,Oakwood Dynamo,0,1
+M0103,2024-11-16,Premier Division,Ashford Wanderers,Eastgate Athletic,0,1
+M0104,2024-11-16,Premier Division,Harbour City FC,Kingsfield Town,5,1
+M0105,2024-11-16,Premier Division,Lakeside Orient,Northbridge United,1,0
+M0106,2024-11-16,Premier Division,Millbrook Victoria,Greenhill Borough,0,1
+M0107,2024-11-16,Premier Division,Rivermouth Rovers,Westvale Albion,4,3
+M0108,2024-11-16,Premier Division,Stonebridge Rangers,Oakwood Dynamo,2,0
+M0109,2024-11-23,Premier Division,Ashford Wanderers,Oakwood Dynamo,4,0
+M0110,2024-11-23,Premier Division,Harbour City FC,Eastgate Athletic,2,0
+M0111,2024-11-23,Premier Division,Millbrook Victoria,Westvale Albion,2,2
+M0112,2024-11-23,Premier Division,Northbridge United,Greenhill Borough,4,0
+M0113,2024-11-23,Premier Division,Rivermouth Rovers,Kingsfield Town,0,0
+M0114,2024-11-23,Premier Division,Stonebridge Rangers,Lakeside Orient,2,1
+M0115,2024-11-27,Challenge Cup,Harbour City FC,Westvale Albion,0,0
+M0116,2024-11-27,Challenge Cup,Westvale Albion,Millbrook Victoria,3,0
+M0117,2024-11-30,Premier Division,Ashford Wanderers,Lakeside Orient,4,0
+M0118,2024-11-30,Premier Division,Greenhill Borough,Westvale Albion,1,0
+M0119,2024-11-30,Premier Division,Harbour City FC,Oakwood Dynamo,3,4
+M0120,2024-11-30,Premier Division,Millbrook Victoria,Kingsfield Town,6,2
+M0121,2024-11-30,Premier Division,Rivermouth Rovers,Eastgate Athletic,2,4
+M0122,2024-11-30,Premier Division,Stonebridge Rangers,Northbridge United,0,2
+M0123,2024-12-07,Premier Division,Ashford Wanderers,Stonebridge Rangers,1,0
+M0124,2024-12-07,Premier Division,Greenhill Borough,Kingsfield Town,1,0
+M0125,2024-12-07,Premier Division,Harbour City FC,Lakeside Orient,1,1
+M0126,2024-12-07,Premier Division,Millbrook Victoria,Eastgate Athletic,1,1
+M0127,2024-12-07,Premier Division,Northbridge United,Westvale Albion,1,2
+M0128,2024-12-07,Premier Division,Rivermouth Rovers,Oakwood Dynamo,1,2
+M0129,2024-12-11,Challenge Cup,Ashford Wanderers,Kingsfield Town,2,0
+M0130,2024-12-11,Challenge Cup,Greenhill Borough,Northbridge United,0,2
+M0131,2024-12-14,Premier Division,Ashford Wanderers,Northbridge United,0,0
+M0132,2024-12-14,Premier Division,Greenhill Borough,Eastgate Athletic,2,4
+M0133,2024-12-14,Premier Division,Harbour City FC,Stonebridge Rangers,3,1
+M0134,2024-12-14,Premier Division,Millbrook Victoria,Oakwood Dynamo,1,0
+M0135,2024-12-14,Premier Division,Rivermouth Rovers,Lakeside Orient,4,0
+M0136,2024-12-14,Premier Division,Westvale Albion,Kingsfield Town,1,1
+M0137,2024-12-21,Premier Division,Greenhill Borough,Oakwood Dynamo,1,0
+M0138,2024-12-21,Premier Division,Harbour City FC,Ashford Wanderers,2,0
+M0139,2024-12-21,Premier Division,Millbrook Victoria,Lakeside Orient,1,0
+M0140,2024-12-21,Premier Division,Northbridge United,Kingsfield Town,2,0
+M0141,2024-12-21,Premier Division,Rivermouth Rovers,Stonebridge Rangers,1,2
+M0142,2024-12-21,Premier Division,Westvale Albion,Eastgate Athletic,2,1
+M0143,2024-12-25,Challenge Cup,Eastgate Athletic,Greenhill Borough,2,0
+M0144,2024-12-28,Premier Division,Greenhill Borough,Lakeside Orient,0,3
+M0145,2024-12-28,Premier Division,Harbour City FC,Northbridge United,0,2
+M0146,2024-12-28,Premier Division,Kingsfield Town,Eastgate Athletic,0,2
+M0147,2024-12-28,Premier Division,Millbrook Victoria,Stonebridge Rangers,1,0
+M0148,2024-12-28,Premier Division,Rivermouth Rovers,Ashford Wanderers,1,1
+M0149,2024-12-28,Premier Division,Westvale Albion,Oakwood Dynamo,1,0
+M0150,2025-01-04,Premier Division,Greenhill Borough,Stonebridge Rangers,0,0
+M0151,2025-01-04,Premier Division,Kingsfield Town,Oakwood Dynamo,1,1
+M0152,2025-01-04,Premier Division,Millbrook Victoria,Ashford Wanderers,1,0
+M0153,2025-01-04,Premier Division,Northbridge United,Eastgate Athletic,3,3
+M0154,2025-01-04,Premier Division,Rivermouth Rovers,Harbour City FC,2,0
+M0155,2025-01-04,Premier Division,Westvale Albion,Lakeside Orient,0,2
+M0156,2025-01-08,Challenge Cup,Rivermouth Rovers,Kingsfield Town,3,1
+M0157,2025-01-11,Premier Division,Eastgate Athletic,Oakwood Dynamo,3,0
+M0158,2025-01-11,Premier Division,Greenhill Borough,Ashford Wanderers,2,0
+M0159,2025-01-11,Premier Division,Kingsfield Town,Lakeside Orient,2,1
+M0160,2025-01-11,Premier Division,Millbrook Victoria,Harbour City FC,1,2
+M0161,2025-01-11,Premier Division,Rivermouth Rovers,Northbridge United,1,2
+M0162,2025-01-11,Premier Division,Westvale Albion,Stonebridge Rangers,1,1
+M0163,2025-01-22,Challenge Cup,Ashford Wanderers,Stonebridge Rangers,0,1
+M0164,2025-02-05,Challenge Cup,Millbrook Victoria,Northbridge United,0,3
+M0165,2025-02-19,Challenge Cup,Harbour City FC,Westvale Albion,2,0
+M0166,2025-03-05,Challenge Cup,Rivermouth Rovers,Eastgate Athletic,2,0
+M0167,2025-03-19,Challenge Cup,Westvale Albion,Rivermouth Rovers,2,0
+M0168,2025-04-02,Challenge Cup,Westvale Albion,Oakwood Dynamo,1,0
