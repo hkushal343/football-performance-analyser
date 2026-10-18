@@ -11,6 +11,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 import os
+from datetime import date
 from src import analytics, api_client, charts, data_loader
 
 # ---------------------------------------------------------------------------
@@ -407,32 +408,115 @@ def get_api_key():
 
 @st.cache_data(ttl=3600, show_spinner="Fetching matches from the API...")
 def load_api_data(api_key, codes, season):
-    """Cached for 1 hour so you do not hit the rate limit on every click."""
-    return api_client.load_from_api(api_key, list(codes), season)
+    """Cache API data for one hour."""
+    return api_client.load_from_api(
+        api_key, list(codes), season
+    )
 
 # ---------------------------------------------------------------------------
 # Main program
 # ---------------------------------------------------------------------------
+
 def main() -> None:
     global DATA_LABEL
+
     inject_css()
     st.markdown("### ⚽ Football Match & Performance Analyser")
 
-    source = st.sidebar.radio("Data source", ["Sample CSV", "Live API"],
-                              key="source", on_change=clear_filters)
+    source = st.sidebar.radio(
+        "Data source",
+        ["Sample CSV", "Live API"],
+        key="source",
+        on_change=clear_filters,
+    )
+
     try:
         if source == "Live API":
-            codes = st.sidebar.multiselect("Competitions", ["PL", "PD", "BL1", "SA", "FL1"],
-                                           default=["PL"], key="api_codes")
-            season = st.sidebar.number_input("Season (start year)", 2015, 2030, 2025, key="api_season")
+            competition_options = {
+                "Premier League": "PL",
+                "La Liga": "PD",
+                "Bundesliga": "BL1",
+                "Serie A": "SA",
+                "Ligue 1": "FL1",
+            }
+
+            selected_competitions = st.sidebar.multiselect(
+                "Select Competitions",
+                list(competition_options.keys()),
+                default=["Premier League"],
+                key="api_competitions",
+            )
+
+            codes = tuple(
+                competition_options[name]
+                for name in selected_competitions
+            )
+
+            from datetime import date
+
+            current_year = date.today().year
+
+            season = st.sidebar.number_input(
+                "Season (start year)",
+                min_value=2015,
+                max_value=current_year,
+                value=current_year,
+                key="api_season",
+            )
+
+            update_clicked = st.sidebar.button(
+                "🔄 Update Data",
+                key="update_api_data",
+            )
+
             if not codes:
                 st.info("Choose at least one competition in the sidebar.")
                 st.stop()
-            df, report = load_api_data(get_api_key(), tuple(codes), int(season))
+
+            selection = (codes, int(season))
+
+            if "api_data_loaded" not in st.session_state:
+                st.session_state["api_data_loaded"] = False
+
+            selection_changed = (
+                st.session_state.get("api_last_selection") != selection
+            )
+
+            # Fetch initially, when the selection changes,
+            # or when Update Data is clicked.
+            if (
+                not st.session_state["api_data_loaded"]
+                or selection_changed
+                or update_clicked
+            ):
+                with st.spinner("Fetching football data..."):
+                    if update_clicked:
+                        load_api_data.clear()
+
+                    df, report = load_api_data(
+                        get_api_key(), codes, int(season)
+                    )
+
+                st.session_state["api_data_loaded"] = True
+                st.session_state["api_last_selection"] = selection
+
+                st.sidebar.success("Football data updated!")
+
+            else:
+                df, report = load_api_data(
+                    get_api_key(), codes, int(season)
+                )
+
             DATA_LABEL = "Real data from football-data.org"
+
         else:
-            modified = DATA_PATH.stat().st_mtime if DATA_PATH.exists() else 0.0
+            modified = (
+                DATA_PATH.stat().st_mtime
+                if DATA_PATH.exists()
+                else 0.0
+            )
             df, report = load_data(str(DATA_PATH), modified)
+
     except (data_loader.DataValidationError, api_client.ApiError) as error:
         st.error(f"Could not load the data. {error}")
         st.stop()
@@ -440,15 +524,17 @@ def main() -> None:
     if df.empty:
         st.error(
             "The dataset has no usable matches. "
-            f"{report.rows_read} row(s) were read and {report.rows_removed} were removed. "
-            "Open the CSV file and check the dates, team names and scores."
+            f"{report.rows_read} row(s) were read and "
+            f"{report.rows_removed} were removed. "
+            "Check the dates, team names and scores in your data."
         )
+
         for reason, count in report.problems.items():
             st.write(f"- {reason}: {count} row(s)")
+
         st.stop()
 
     page, filtered = sidebar(df)
     PAGES[page](filtered=filtered, df=df, report=report)
-
 
 main()
