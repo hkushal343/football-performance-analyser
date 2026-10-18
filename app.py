@@ -10,15 +10,15 @@ from pathlib import Path
 
 import pandas as pd
 import streamlit as st
-
-from src import analytics, charts, data_loader
+import os
+from src import analytics, api_client, charts, data_loader
 
 # ---------------------------------------------------------------------------
 # Settings you may want to change
 # ---------------------------------------------------------------------------
 DATA_PATH = Path(__file__).parent / "data" / "football_matches.csv"
 # Shown in the sidebar. Change this text when you replace the sample file with real data.
-DATA_LABEL = "Sample (synthetic) data - not real match results"
+DATA_LABEL = "Real match results"
 
 PAGE_NAMES = [
     "Dashboard",
@@ -398,19 +398,43 @@ PAGES = {
     "Data and Downloads": page_data_and_downloads,
 }
 
+def get_api_key():
+    try:
+        return st.secrets["FOOTBALL_DATA_API_KEY"]
+    except Exception:
+        return os.environ.get("FOOTBALL_DATA_API_KEY")
+
+
+@st.cache_data(ttl=3600, show_spinner="Fetching matches from the API...")
+def load_api_data(api_key, codes, season):
+    """Cached for 1 hour so you do not hit the rate limit on every click."""
+    return api_client.load_from_api(api_key, list(codes), season)
 
 # ---------------------------------------------------------------------------
 # Main program
 # ---------------------------------------------------------------------------
 def main() -> None:
+    global DATA_LABEL
     inject_css()
     st.markdown("### ⚽ Football Match & Performance Analyser")
 
+    source = st.sidebar.radio("Data source", ["Sample CSV", "Live API"],
+                              key="source", on_change=clear_filters)
     try:
-        modified = DATA_PATH.stat().st_mtime if DATA_PATH.exists() else 0.0
-        df, report = load_data(str(DATA_PATH), modified)
-    except data_loader.DataValidationError as error:
-        st.error(f"Could not load the dataset. {error}")
+        if source == "Live API":
+            codes = st.sidebar.multiselect("Competitions", ["PL", "PD", "BL1", "SA", "FL1"],
+                                           default=["PL"], key="api_codes")
+            season = st.sidebar.number_input("Season (start year)", 2015, 2030, 2025, key="api_season")
+            if not codes:
+                st.info("Choose at least one competition in the sidebar.")
+                st.stop()
+            df, report = load_api_data(get_api_key(), tuple(codes), int(season))
+            DATA_LABEL = "Real data from football-data.org"
+        else:
+            modified = DATA_PATH.stat().st_mtime if DATA_PATH.exists() else 0.0
+            df, report = load_data(str(DATA_PATH), modified)
+    except (data_loader.DataValidationError, api_client.ApiError) as error:
+        st.error(f"Could not load the data. {error}")
         st.stop()
 
     if df.empty:

@@ -1,169 +1,381 @@
 match_id,date,competition,home_team,away_team,home_score,away_score
-M0001,2024-08-03,Friendly Series,Harbour City FC,Westvale Albion,4,0
-M0002,2024-08-03,Friendly Series,Westvale Albion,Rivermouth Rovers,1,0
-M0003,2024-08-04,Friendly Series,Ashford Wanderers,Millbrook Victoria,1,1
-M0004,2024-08-04,Friendly Series,Lakeside Orient,Oakwood Dynamo,4,3
-M0005,2024-08-05,Friendly Series,Kingsfield Town,Ashford Wanderers,1,1
-M0006,2024-08-05,Friendly Series,Millbrook Victoria,Ashford Wanderers,0,1
-M0007,2024-08-06,Friendly Series,Kingsfield Town,Ashford Wanderers,6,1
-M0008,2024-08-06,Friendly Series,Stonebridge Rangers,Harbour City FC,2,0
-M0009,2024-08-07,Friendly Series,Lakeside Orient,Harbour City FC,0,1
-M0010,2024-08-08,Friendly Series,Ashford Wanderers,Eastgate Athletic,1,2
-M0011,2024-08-09,Friendly Series,Ashford Wanderers,Millbrook Victoria,2,0
-M0012,2024-08-10,Friendly Series,Eastgate Athletic,Harbour City FC,0,1
-M0013,2024-08-17,Premier Division,Eastgate Athletic,Lakeside Orient,3,0
-M0014,2024-08-17,Premier Division,Greenhill Borough,Harbour City FC,0,5
-M0015,2024-08-17,Premier Division,Kingsfield Town,Stonebridge Rangers,3,1
-M0016,2024-08-17,Premier Division,Millbrook Victoria,Rivermouth Rovers,0,2
-M0017,2024-08-17,Premier Division,Northbridge United,Oakwood Dynamo,7,0
-M0018,2024-08-17,Premier Division,Westvale Albion,Ashford Wanderers,3,0
-M0019,2024-08-24,Premier Division,Eastgate Athletic,Stonebridge Rangers,2,1
-M0020,2024-08-24,Premier Division,Greenhill Borough,Rivermouth Rovers,0,0
-M0021,2024-08-24,Premier Division,Kingsfield Town,Ashford Wanderers,1,2
-M0022,2024-08-24,Premier Division,Millbrook Victoria,Northbridge United,0,2
-M0023,2024-08-24,Premier Division,Oakwood Dynamo,Lakeside Orient,1,2
-M0024,2024-08-24,Premier Division,Westvale Albion,Harbour City FC,2,0
-M0025,2024-08-31,Premier Division,Eastgate Athletic,Ashford Wanderers,1,1
-M0026,2024-08-31,Premier Division,Greenhill Borough,Millbrook Victoria,0,2
-M0027,2024-08-31,Premier Division,Kingsfield Town,Harbour City FC,2,1
-M0028,2024-08-31,Premier Division,Northbridge United,Lakeside Orient,4,1
-M0029,2024-08-31,Premier Division,Oakwood Dynamo,Stonebridge Rangers,1,1
-M0030,2024-08-31,Premier Division,Westvale Albion,Rivermouth Rovers,1,0
-M0031,2024-09-04,Challenge Cup,Kingsfield Town,Oakwood Dynamo,4,0
-M0032,2024-09-04,Challenge Cup,Rivermouth Rovers,Ashford Wanderers,0,0
-M0033,2024-09-07,Premier Division,Eastgate Athletic,Harbour City FC,2,1
-M0034,2024-09-07,Premier Division,Greenhill Borough,Northbridge United,1,1
-M0035,2024-09-07,Premier Division,Kingsfield Town,Rivermouth Rovers,1,0
-M0036,2024-09-07,Premier Division,Lakeside Orient,Stonebridge Rangers,3,2
-M0037,2024-09-07,Premier Division,Oakwood Dynamo,Ashford Wanderers,1,2
-M0038,2024-09-07,Premier Division,Westvale Albion,Millbrook Victoria,1,0
-M0039,2024-09-14,Premier Division,Eastgate Athletic,Rivermouth Rovers,0,0
-M0040,2024-09-14,Premier Division,Kingsfield Town,Millbrook Victoria,1,1
-M0041,2024-09-14,Premier Division,Lakeside Orient,Ashford Wanderers,0,1
-M0042,2024-09-14,Premier Division,Northbridge United,Stonebridge Rangers,1,1
-M0043,2024-09-14,Premier Division,Oakwood Dynamo,Harbour City FC,2,4
-M0044,2024-09-14,Premier Division,Westvale Albion,Greenhill Borough,0,1
-M0045,2024-09-18,Challenge Cup,Harbour City FC,Ashford Wanderers,0,1
-M0046,2024-09-18,Challenge Cup,Kingsfield Town,Oakwood Dynamo,3,2
-M0047,2024-09-21,Premier Division,Eastgate Athletic,Millbrook Victoria,2,1
-M0048,2024-09-21,Premier Division,Kingsfield Town,Greenhill Borough,0,1
-M0049,2024-09-21,Premier Division,Lakeside Orient,Harbour City FC,1,5
-M0050,2024-09-21,Premier Division,Oakwood Dynamo,Rivermouth Rovers,0,0
-M0051,2024-09-21,Premier Division,Stonebridge Rangers,Ashford Wanderers,0,0
-M0052,2024-09-21,Premier Division,Westvale Albion,Northbridge United,1,1
-M0053,2024-09-28,Premier Division,Eastgate Athletic,Greenhill Borough,2,0
-M0054,2024-09-28,Premier Division,Kingsfield Town,Westvale Albion,0,1
-M0055,2024-09-28,Premier Division,Lakeside Orient,Rivermouth Rovers,2,1
-M0056,2024-09-28,Premier Division,Northbridge United,Ashford Wanderers,4,1
-M0057,2024-09-28,Premier Division,Oakwood Dynamo,Millbrook Victoria,0,0
-M0058,2024-09-28,Premier Division,Stonebridge Rangers,Harbour City FC,1,2
-M0059,2024-10-02,Challenge Cup,Eastgate Athletic,Ashford Wanderers,1,1
-M0060,2024-10-02,Challenge Cup,Stonebridge Rangers,Millbrook Victoria,3,1
-M0061,2024-10-05,Premier Division,Ashford Wanderers,Harbour City FC,1,0
-M0062,2024-10-05,Premier Division,Eastgate Athletic,Westvale Albion,3,1
-M0063,2024-10-05,Premier Division,Kingsfield Town,Northbridge United,1,0
-M0064,2024-10-05,Premier Division,Lakeside Orient,Millbrook Victoria,3,2
-M0065,2024-10-05,Premier Division,Oakwood Dynamo,Greenhill Borough,1,2
-M0066,2024-10-05,Premier Division,Stonebridge Rangers,Rivermouth Rovers,0,2
-M0067,2024-10-12,Premier Division,Ashford Wanderers,Rivermouth Rovers,0,0
-M0068,2024-10-12,Premier Division,Eastgate Athletic,Kingsfield Town,1,1
-M0069,2024-10-12,Premier Division,Lakeside Orient,Greenhill Borough,3,1
-M0070,2024-10-12,Premier Division,Northbridge United,Harbour City FC,2,1
-M0071,2024-10-12,Premier Division,Oakwood Dynamo,Westvale Albion,2,0
-M0072,2024-10-12,Premier Division,Stonebridge Rangers,Millbrook Victoria,0,0
-M0073,2024-10-16,Challenge Cup,Kingsfield Town,Millbrook Victoria,1,0
-M0074,2024-10-16,Challenge Cup,Millbrook Victoria,Greenhill Borough,0,4
-M0075,2024-10-19,Premier Division,Ashford Wanderers,Millbrook Victoria,1,2
-M0076,2024-10-19,Premier Division,Eastgate Athletic,Northbridge United,1,2
-M0077,2024-10-19,Premier Division,Harbour City FC,Rivermouth Rovers,1,2
-M0078,2024-10-19,Premier Division,Lakeside Orient,Westvale Albion,1,0
-M0079,2024-10-19,Premier Division,Oakwood Dynamo,Kingsfield Town,1,2
-M0080,2024-10-19,Premier Division,Stonebridge Rangers,Greenhill Borough,1,3
-M0081,2024-10-26,Premier Division,Ashford Wanderers,Greenhill Borough,1,1
-M0082,2024-10-26,Premier Division,Harbour City FC,Millbrook Victoria,0,1
-M0083,2024-10-26,Premier Division,Lakeside Orient,Kingsfield Town,0,1
-M0084,2024-10-26,Premier Division,Northbridge United,Rivermouth Rovers,2,1
-M0085,2024-10-26,Premier Division,Oakwood Dynamo,Eastgate Athletic,1,1
-M0086,2024-10-26,Premier Division,Stonebridge Rangers,Westvale Albion,2,1
-M0087,2024-10-30,Challenge Cup,Harbour City FC,Ashford Wanderers,5,2
-M0088,2024-10-30,Challenge Cup,Millbrook Victoria,Lakeside Orient,0,1
-M0089,2024-11-02,Premier Division,Ashford Wanderers,Westvale Albion,0,1
-M0090,2024-11-02,Premier Division,Harbour City FC,Greenhill Borough,0,3
-M0091,2024-11-02,Premier Division,Lakeside Orient,Eastgate Athletic,0,0
-M0092,2024-11-02,Premier Division,Oakwood Dynamo,Northbridge United,2,6
-M0093,2024-11-02,Premier Division,Rivermouth Rovers,Millbrook Victoria,2,0
-M0094,2024-11-02,Premier Division,Stonebridge Rangers,Kingsfield Town,2,2
-M0095,2024-11-09,Premier Division,Ashford Wanderers,Kingsfield Town,4,0
-M0096,2024-11-09,Premier Division,Harbour City FC,Westvale Albion,1,2
-M0097,2024-11-09,Premier Division,Lakeside Orient,Oakwood Dynamo,0,1
-M0098,2024-11-09,Premier Division,Northbridge United,Millbrook Victoria,2,4
-M0099,2024-11-09,Premier Division,Rivermouth Rovers,Greenhill Borough,0,1
-M0100,2024-11-09,Premier Division,Stonebridge Rangers,Eastgate Athletic,2,1
-M0101,2024-11-13,Challenge Cup,Ashford Wanderers,Greenhill Borough,2,0
-M0102,2024-11-13,Challenge Cup,Millbrook Victoria,Oakwood Dynamo,0,1
-M0103,2024-11-16,Premier Division,Ashford Wanderers,Eastgate Athletic,0,1
-M0104,2024-11-16,Premier Division,Harbour City FC,Kingsfield Town,5,1
-M0105,2024-11-16,Premier Division,Lakeside Orient,Northbridge United,1,0
-M0106,2024-11-16,Premier Division,Millbrook Victoria,Greenhill Borough,0,1
-M0107,2024-11-16,Premier Division,Rivermouth Rovers,Westvale Albion,4,3
-M0108,2024-11-16,Premier Division,Stonebridge Rangers,Oakwood Dynamo,2,0
-M0109,2024-11-23,Premier Division,Ashford Wanderers,Oakwood Dynamo,4,0
-M0110,2024-11-23,Premier Division,Harbour City FC,Eastgate Athletic,2,0
-M0111,2024-11-23,Premier Division,Millbrook Victoria,Westvale Albion,2,2
-M0112,2024-11-23,Premier Division,Northbridge United,Greenhill Borough,4,0
-M0113,2024-11-23,Premier Division,Rivermouth Rovers,Kingsfield Town,0,0
-M0114,2024-11-23,Premier Division,Stonebridge Rangers,Lakeside Orient,2,1
-M0115,2024-11-27,Challenge Cup,Harbour City FC,Westvale Albion,0,0
-M0116,2024-11-27,Challenge Cup,Westvale Albion,Millbrook Victoria,3,0
-M0117,2024-11-30,Premier Division,Ashford Wanderers,Lakeside Orient,4,0
-M0118,2024-11-30,Premier Division,Greenhill Borough,Westvale Albion,1,0
-M0119,2024-11-30,Premier Division,Harbour City FC,Oakwood Dynamo,3,4
-M0120,2024-11-30,Premier Division,Millbrook Victoria,Kingsfield Town,6,2
-M0121,2024-11-30,Premier Division,Rivermouth Rovers,Eastgate Athletic,2,4
-M0122,2024-11-30,Premier Division,Stonebridge Rangers,Northbridge United,0,2
-M0123,2024-12-07,Premier Division,Ashford Wanderers,Stonebridge Rangers,1,0
-M0124,2024-12-07,Premier Division,Greenhill Borough,Kingsfield Town,1,0
-M0125,2024-12-07,Premier Division,Harbour City FC,Lakeside Orient,1,1
-M0126,2024-12-07,Premier Division,Millbrook Victoria,Eastgate Athletic,1,1
-M0127,2024-12-07,Premier Division,Northbridge United,Westvale Albion,1,2
-M0128,2024-12-07,Premier Division,Rivermouth Rovers,Oakwood Dynamo,1,2
-M0129,2024-12-11,Challenge Cup,Ashford Wanderers,Kingsfield Town,2,0
-M0130,2024-12-11,Challenge Cup,Greenhill Borough,Northbridge United,0,2
-M0131,2024-12-14,Premier Division,Ashford Wanderers,Northbridge United,0,0
-M0132,2024-12-14,Premier Division,Greenhill Borough,Eastgate Athletic,2,4
-M0133,2024-12-14,Premier Division,Harbour City FC,Stonebridge Rangers,3,1
-M0134,2024-12-14,Premier Division,Millbrook Victoria,Oakwood Dynamo,1,0
-M0135,2024-12-14,Premier Division,Rivermouth Rovers,Lakeside Orient,4,0
-M0136,2024-12-14,Premier Division,Westvale Albion,Kingsfield Town,1,1
-M0137,2024-12-21,Premier Division,Greenhill Borough,Oakwood Dynamo,1,0
-M0138,2024-12-21,Premier Division,Harbour City FC,Ashford Wanderers,2,0
-M0139,2024-12-21,Premier Division,Millbrook Victoria,Lakeside Orient,1,0
-M0140,2024-12-21,Premier Division,Northbridge United,Kingsfield Town,2,0
-M0141,2024-12-21,Premier Division,Rivermouth Rovers,Stonebridge Rangers,1,2
-M0142,2024-12-21,Premier Division,Westvale Albion,Eastgate Athletic,2,1
-M0143,2024-12-25,Challenge Cup,Eastgate Athletic,Greenhill Borough,2,0
-M0144,2024-12-28,Premier Division,Greenhill Borough,Lakeside Orient,0,3
-M0145,2024-12-28,Premier Division,Harbour City FC,Northbridge United,0,2
-M0146,2024-12-28,Premier Division,Kingsfield Town,Eastgate Athletic,0,2
-M0147,2024-12-28,Premier Division,Millbrook Victoria,Stonebridge Rangers,1,0
-M0148,2024-12-28,Premier Division,Rivermouth Rovers,Ashford Wanderers,1,1
-M0149,2024-12-28,Premier Division,Westvale Albion,Oakwood Dynamo,1,0
-M0150,2025-01-04,Premier Division,Greenhill Borough,Stonebridge Rangers,0,0
-M0151,2025-01-04,Premier Division,Kingsfield Town,Oakwood Dynamo,1,1
-M0152,2025-01-04,Premier Division,Millbrook Victoria,Ashford Wanderers,1,0
-M0153,2025-01-04,Premier Division,Northbridge United,Eastgate Athletic,3,3
-M0154,2025-01-04,Premier Division,Rivermouth Rovers,Harbour City FC,2,0
-M0155,2025-01-04,Premier Division,Westvale Albion,Lakeside Orient,0,2
-M0156,2025-01-08,Challenge Cup,Rivermouth Rovers,Kingsfield Town,3,1
-M0157,2025-01-11,Premier Division,Eastgate Athletic,Oakwood Dynamo,3,0
-M0158,2025-01-11,Premier Division,Greenhill Borough,Ashford Wanderers,2,0
-M0159,2025-01-11,Premier Division,Kingsfield Town,Lakeside Orient,2,1
-M0160,2025-01-11,Premier Division,Millbrook Victoria,Harbour City FC,1,2
-M0161,2025-01-11,Premier Division,Rivermouth Rovers,Northbridge United,1,2
-M0162,2025-01-11,Premier Division,Westvale Albion,Stonebridge Rangers,1,1
-M0163,2025-01-22,Challenge Cup,Ashford Wanderers,Stonebridge Rangers,0,1
-M0164,2025-02-05,Challenge Cup,Millbrook Victoria,Northbridge United,0,3
-M0165,2025-02-19,Challenge Cup,Harbour City FC,Westvale Albion,2,0
-M0166,2025-03-05,Challenge Cup,Rivermouth Rovers,Eastgate Athletic,2,0
-M0167,2025-03-19,Challenge Cup,Westvale Albion,Rivermouth Rovers,2,0
-M0168,2025-04-02,Challenge Cup,Westvale Albion,Oakwood Dynamo,1,0
+537785,2025-08-15,Premier League,Liverpool FC,AFC Bournemouth,4,2
+537786,2025-08-16,Premier League,Aston Villa FC,Newcastle United FC,0,0
+537787,2025-08-16,Premier League,Brighton & Hove Albion FC,Fulham FC,1,1
+537789,2025-08-16,Premier League,Sunderland AFC,West Ham United FC,3,0
+537790,2025-08-16,Premier League,Tottenham Hotspur FC,Burnley FC,3,0
+537791,2025-08-16,Premier League,Wolverhampton Wanderers FC,Manchester City FC,0,4
+537788,2025-08-17,Premier League,Nottingham Forest FC,Brentford FC,3,1
+537792,2025-08-17,Premier League,Chelsea FC,Crystal Palace FC,0,0
+537793,2025-08-17,Premier League,Manchester United FC,Arsenal FC,0,1
+537794,2025-08-18,Premier League,Leeds United FC,Everton FC,1,0
+537804,2025-08-22,Premier League,West Ham United FC,Chelsea FC,1,5
+537795,2025-08-23,Premier League,AFC Bournemouth,Wolverhampton Wanderers FC,1,0
+537797,2025-08-23,Premier League,Arsenal FC,Leeds United FC,5,0
+537798,2025-08-23,Premier League,Brentford FC,Aston Villa FC,1,0
+537799,2025-08-23,Premier League,Burnley FC,Sunderland AFC,2,0
+537802,2025-08-23,Premier League,Manchester City FC,Tottenham Hotspur FC,0,2
+537796,2025-08-24,Premier League,Crystal Palace FC,Nottingham Forest FC,1,1
+537800,2025-08-24,Premier League,Everton FC,Brighton & Hove Albion FC,2,0
+537801,2025-08-24,Premier League,Fulham FC,Manchester United FC,1,1
+537803,2025-08-25,Premier League,Newcastle United FC,Liverpool FC,2,3
+537805,2025-08-30,Premier League,Sunderland AFC,Brentford FC,2,1
+537808,2025-08-30,Premier League,Chelsea FC,Fulham FC,2,0
+537810,2025-08-30,Premier League,Leeds United FC,Newcastle United FC,0,0
+537811,2025-08-30,Premier League,Manchester United FC,Burnley FC,3,2
+537813,2025-08-30,Premier League,Tottenham Hotspur FC,AFC Bournemouth,0,1
+537814,2025-08-30,Premier League,Wolverhampton Wanderers FC,Everton FC,2,3
+537806,2025-08-31,Premier League,Aston Villa FC,Crystal Palace FC,0,3
+537807,2025-08-31,Premier League,Brighton & Hove Albion FC,Manchester City FC,2,1
+537809,2025-08-31,Premier League,Liverpool FC,Arsenal FC,1,0
+537812,2025-08-31,Premier League,Nottingham Forest FC,West Ham United FC,0,3
+537815,2025-09-13,Premier League,AFC Bournemouth,Brighton & Hove Albion FC,2,1
+537816,2025-09-13,Premier League,Crystal Palace FC,Sunderland AFC,0,0
+537817,2025-09-13,Premier League,Arsenal FC,Nottingham Forest FC,3,0
+537818,2025-09-13,Premier League,Brentford FC,Chelsea FC,2,2
+537820,2025-09-13,Premier League,Everton FC,Aston Villa FC,0,0
+537821,2025-09-13,Premier League,Fulham FC,Leeds United FC,1,0
+537823,2025-09-13,Premier League,Newcastle United FC,Wolverhampton Wanderers FC,1,0
+537824,2025-09-13,Premier League,West Ham United FC,Tottenham Hotspur FC,0,3
+537819,2025-09-14,Premier League,Burnley FC,Liverpool FC,0,1
+537822,2025-09-14,Premier League,Manchester City FC,Manchester United FC,3,0
+537827,2025-09-20,Premier League,Brighton & Hove Albion FC,Tottenham Hotspur FC,2,2
+537829,2025-09-20,Premier League,Burnley FC,Nottingham Forest FC,1,1
+537830,2025-09-20,Premier League,Fulham FC,Brentford FC,3,1
+537831,2025-09-20,Premier League,Liverpool FC,Everton FC,2,1
+537832,2025-09-20,Premier League,Manchester United FC,Chelsea FC,2,1
+537833,2025-09-20,Premier League,West Ham United FC,Crystal Palace FC,1,2
+537834,2025-09-20,Premier League,Wolverhampton Wanderers FC,Leeds United FC,1,3
+537825,2025-09-21,Premier League,AFC Bournemouth,Newcastle United FC,0,0
+537826,2025-09-21,Premier League,Sunderland AFC,Aston Villa FC,1,1
+537828,2025-09-21,Premier League,Arsenal FC,Manchester City FC,1,1
+537836,2025-09-27,Premier League,Crystal Palace FC,Liverpool FC,2,1
+537837,2025-09-27,Premier League,Brentford FC,Manchester United FC,3,1
+537838,2025-09-27,Premier League,Chelsea FC,Brighton & Hove Albion FC,1,3
+537840,2025-09-27,Premier League,Leeds United FC,AFC Bournemouth,2,2
+537841,2025-09-27,Premier League,Manchester City FC,Burnley FC,5,1
+537843,2025-09-27,Premier League,Nottingham Forest FC,Sunderland AFC,0,1
+537844,2025-09-27,Premier League,Tottenham Hotspur FC,Wolverhampton Wanderers FC,1,1
+537835,2025-09-28,Premier League,Aston Villa FC,Fulham FC,3,1
+537842,2025-09-28,Premier League,Newcastle United FC,Arsenal FC,1,2
+537839,2025-09-29,Premier League,Everton FC,West Ham United FC,1,1
+537845,2025-10-03,Premier League,AFC Bournemouth,Fulham FC,3,1
+537847,2025-10-04,Premier League,Arsenal FC,West Ham United FC,2,0
+537849,2025-10-04,Premier League,Chelsea FC,Liverpool FC,2,1
+537851,2025-10-04,Premier League,Leeds United FC,Tottenham Hotspur FC,1,2
+537852,2025-10-04,Premier League,Manchester United FC,Sunderland AFC,2,0
+537846,2025-10-05,Premier League,Aston Villa FC,Burnley FC,2,1
+537848,2025-10-05,Premier League,Brentford FC,Manchester City FC,0,1
+537850,2025-10-05,Premier League,Everton FC,Crystal Palace FC,2,1
+537853,2025-10-05,Premier League,Newcastle United FC,Nottingham Forest FC,2,0
+537854,2025-10-05,Premier League,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,1,1
+537855,2025-10-18,Premier League,Sunderland AFC,Wolverhampton Wanderers FC,2,0
+537856,2025-10-18,Premier League,Brighton & Hove Albion FC,Newcastle United FC,2,1
+537857,2025-10-18,Premier League,Crystal Palace FC,AFC Bournemouth,3,3
+537858,2025-10-18,Premier League,Burnley FC,Leeds United FC,2,0
+537859,2025-10-18,Premier League,Fulham FC,Arsenal FC,0,1
+537861,2025-10-18,Premier League,Manchester City FC,Everton FC,2,0
+537862,2025-10-18,Premier League,Nottingham Forest FC,Chelsea FC,0,3
+537860,2025-10-19,Premier League,Liverpool FC,Manchester United FC,1,2
+537863,2025-10-19,Premier League,Tottenham Hotspur FC,Aston Villa FC,1,2
+537864,2025-10-20,Premier League,West Ham United FC,Brentford FC,0,2
+537871,2025-10-24,Premier League,Leeds United FC,West Ham United FC,2,1
+537868,2025-10-25,Premier League,Brentford FC,Liverpool FC,3,2
+537869,2025-10-25,Premier League,Chelsea FC,Sunderland AFC,1,2
+537872,2025-10-25,Premier League,Manchester United FC,Brighton & Hove Albion FC,4,2
+537873,2025-10-25,Premier League,Newcastle United FC,Fulham FC,2,1
+537865,2025-10-26,Premier League,AFC Bournemouth,Nottingham Forest FC,2,0
+537866,2025-10-26,Premier League,Aston Villa FC,Manchester City FC,1,0
+537867,2025-10-26,Premier League,Arsenal FC,Crystal Palace FC,1,0
+537870,2025-10-26,Premier League,Everton FC,Tottenham Hotspur FC,0,3
+537874,2025-10-26,Premier League,Wolverhampton Wanderers FC,Burnley FC,2,3
+537876,2025-11-01,Premier League,Brighton & Hove Albion FC,Leeds United FC,3,0
+537877,2025-11-01,Premier League,Crystal Palace FC,Brentford FC,2,0
+537878,2025-11-01,Premier League,Burnley FC,Arsenal FC,0,2
+537879,2025-11-01,Premier League,Fulham FC,Wolverhampton Wanderers FC,3,0
+537880,2025-11-01,Premier League,Liverpool FC,Aston Villa FC,2,0
+537882,2025-11-01,Premier League,Nottingham Forest FC,Manchester United FC,2,2
+537883,2025-11-01,Premier League,Tottenham Hotspur FC,Chelsea FC,0,1
+537881,2025-11-02,Premier League,Manchester City FC,AFC Bournemouth,3,1
+537884,2025-11-02,Premier League,West Ham United FC,Newcastle United FC,3,1
+537875,2025-11-03,Premier League,Sunderland AFC,Everton FC,1,1
+537885,2025-11-08,Premier League,Sunderland AFC,Arsenal FC,2,2
+537889,2025-11-08,Premier League,Chelsea FC,Wolverhampton Wanderers FC,3,0
+537890,2025-11-08,Premier League,Everton FC,Fulham FC,2,0
+537893,2025-11-08,Premier League,Tottenham Hotspur FC,Manchester United FC,2,2
+537894,2025-11-08,Premier League,West Ham United FC,Burnley FC,3,2
+537886,2025-11-09,Premier League,Aston Villa FC,AFC Bournemouth,4,0
+537887,2025-11-09,Premier League,Crystal Palace FC,Brighton & Hove Albion FC,0,0
+537888,2025-11-09,Premier League,Brentford FC,Newcastle United FC,3,1
+537891,2025-11-09,Premier League,Manchester City FC,Liverpool FC,3,0
+537892,2025-11-09,Premier League,Nottingham Forest FC,Leeds United FC,3,1
+537895,2025-11-22,Premier League,AFC Bournemouth,West Ham United FC,2,2
+537896,2025-11-22,Premier League,Brighton & Hove Albion FC,Brentford FC,2,1
+537898,2025-11-22,Premier League,Burnley FC,Chelsea FC,0,2
+537899,2025-11-22,Premier League,Fulham FC,Sunderland AFC,1,0
+537900,2025-11-22,Premier League,Liverpool FC,Nottingham Forest FC,0,3
+537903,2025-11-22,Premier League,Newcastle United FC,Manchester City FC,2,1
+537904,2025-11-22,Premier League,Wolverhampton Wanderers FC,Crystal Palace FC,0,2
+537897,2025-11-23,Premier League,Arsenal FC,Tottenham Hotspur FC,4,1
+537901,2025-11-23,Premier League,Leeds United FC,Aston Villa FC,1,2
+537902,2025-11-24,Premier League,Manchester United FC,Everton FC,0,1
+537905,2025-11-29,Premier League,Sunderland AFC,AFC Bournemouth,3,2
+537908,2025-11-29,Premier League,Brentford FC,Burnley FC,3,1
+537910,2025-11-29,Premier League,Everton FC,Newcastle United FC,1,4
+537911,2025-11-29,Premier League,Manchester City FC,Leeds United FC,3,2
+537913,2025-11-29,Premier League,Tottenham Hotspur FC,Fulham FC,1,2
+537906,2025-11-30,Premier League,Aston Villa FC,Wolverhampton Wanderers FC,1,0
+537907,2025-11-30,Premier League,Crystal Palace FC,Manchester United FC,1,2
+537909,2025-11-30,Premier League,Chelsea FC,Arsenal FC,1,1
+537912,2025-11-30,Premier League,Nottingham Forest FC,Brighton & Hove Albion FC,0,2
+537914,2025-11-30,Premier League,West Ham United FC,Liverpool FC,0,2
+537915,2025-12-02,Premier League,AFC Bournemouth,Everton FC,0,1
+537919,2025-12-02,Premier League,Fulham FC,Manchester City FC,4,5
+537923,2025-12-02,Premier League,Newcastle United FC,Tottenham Hotspur FC,2,2
+537916,2025-12-03,Premier League,Brighton & Hove Albion FC,Aston Villa FC,3,4
+537917,2025-12-03,Premier League,Arsenal FC,Brentford FC,2,0
+537918,2025-12-03,Premier League,Burnley FC,Crystal Palace FC,0,1
+537920,2025-12-03,Premier League,Liverpool FC,Sunderland AFC,1,1
+537921,2025-12-03,Premier League,Leeds United FC,Chelsea FC,3,1
+537924,2025-12-03,Premier League,Wolverhampton Wanderers FC,Nottingham Forest FC,0,1
+537922,2025-12-04,Premier League,Manchester United FC,West Ham United FC,1,1
+537925,2025-12-06,Premier League,AFC Bournemouth,Chelsea FC,0,0
+537926,2025-12-06,Premier League,Aston Villa FC,Arsenal FC,2,1
+537928,2025-12-06,Premier League,Everton FC,Nottingham Forest FC,3,0
+537930,2025-12-06,Premier League,Leeds United FC,Liverpool FC,3,3
+537931,2025-12-06,Premier League,Manchester City FC,Sunderland AFC,3,0
+537932,2025-12-06,Premier League,Newcastle United FC,Burnley FC,2,1
+537933,2025-12-06,Premier League,Tottenham Hotspur FC,Brentford FC,2,0
+537927,2025-12-07,Premier League,Brighton & Hove Albion FC,West Ham United FC,1,1
+537929,2025-12-07,Premier League,Fulham FC,Crystal Palace FC,1,2
+537934,2025-12-08,Premier League,Wolverhampton Wanderers FC,Manchester United FC,1,4
+537937,2025-12-13,Premier League,Arsenal FC,Wolverhampton Wanderers FC,2,1
+537939,2025-12-13,Premier League,Burnley FC,Fulham FC,2,3
+537940,2025-12-13,Premier League,Chelsea FC,Everton FC,2,0
+537941,2025-12-13,Premier League,Liverpool FC,Brighton & Hove Albion FC,2,0
+537935,2025-12-14,Premier League,Sunderland AFC,Newcastle United FC,1,0
+537936,2025-12-14,Premier League,Crystal Palace FC,Manchester City FC,0,3
+537938,2025-12-14,Premier League,Brentford FC,Leeds United FC,1,1
+537943,2025-12-14,Premier League,Nottingham Forest FC,Tottenham Hotspur FC,3,0
+537944,2025-12-14,Premier League,West Ham United FC,Aston Villa FC,2,3
+537942,2025-12-15,Premier League,Manchester United FC,AFC Bournemouth,4,4
+537945,2025-12-20,Premier League,AFC Bournemouth,Burnley FC,1,1
+537947,2025-12-20,Premier League,Brighton & Hove Albion FC,Sunderland AFC,0,0
+537948,2025-12-20,Premier League,Everton FC,Arsenal FC,0,1
+537950,2025-12-20,Premier League,Leeds United FC,Crystal Palace FC,4,1
+537951,2025-12-20,Premier League,Manchester City FC,West Ham United FC,3,0
+537952,2025-12-20,Premier League,Newcastle United FC,Chelsea FC,2,2
+537953,2025-12-20,Premier League,Tottenham Hotspur FC,Liverpool FC,1,2
+537954,2025-12-20,Premier League,Wolverhampton Wanderers FC,Brentford FC,0,2
+537946,2025-12-21,Premier League,Aston Villa FC,Manchester United FC,2,1
+537949,2025-12-22,Premier League,Fulham FC,Nottingham Forest FC,1,0
+537962,2025-12-26,Premier League,Manchester United FC,Newcastle United FC,1,0
+537957,2025-12-27,Premier League,Arsenal FC,Brighton & Hove Albion FC,2,1
+537958,2025-12-27,Premier League,Brentford FC,AFC Bournemouth,4,1
+537959,2025-12-27,Premier League,Burnley FC,Everton FC,0,0
+537960,2025-12-27,Premier League,Chelsea FC,Aston Villa FC,1,2
+537961,2025-12-27,Premier League,Liverpool FC,Wolverhampton Wanderers FC,2,1
+537963,2025-12-27,Premier League,Nottingham Forest FC,Manchester City FC,1,2
+537964,2025-12-27,Premier League,West Ham United FC,Fulham FC,0,1
+537955,2025-12-28,Premier League,Sunderland AFC,Leeds United FC,1,1
+537956,2025-12-28,Premier League,Crystal Palace FC,Tottenham Hotspur FC,0,1
+537967,2025-12-30,Premier League,Arsenal FC,Aston Villa FC,4,1
+537969,2025-12-30,Premier League,Burnley FC,Newcastle United FC,1,3
+537970,2025-12-30,Premier League,Chelsea FC,AFC Bournemouth,2,2
+537972,2025-12-30,Premier League,Manchester United FC,Wolverhampton Wanderers FC,1,1
+537973,2025-12-30,Premier League,Nottingham Forest FC,Everton FC,0,2
+537974,2025-12-30,Premier League,West Ham United FC,Brighton & Hove Albion FC,2,2
+537965,2026-01-01,Premier League,Sunderland AFC,Manchester City FC,0,0
+537966,2026-01-01,Premier League,Crystal Palace FC,Fulham FC,1,1
+537968,2026-01-01,Premier League,Brentford FC,Tottenham Hotspur FC,0,0
+537971,2026-01-01,Premier League,Liverpool FC,Leeds United FC,0,0
+537975,2026-01-03,Premier League,AFC Bournemouth,Arsenal FC,2,3
+537976,2026-01-03,Premier League,Aston Villa FC,Nottingham Forest FC,3,1
+537977,2026-01-03,Premier League,Brighton & Hove Albion FC,Burnley FC,2,0
+537984,2026-01-03,Premier League,Wolverhampton Wanderers FC,West Ham United FC,3,0
+537978,2026-01-04,Premier League,Everton FC,Brentford FC,2,4
+537979,2026-01-04,Premier League,Fulham FC,Liverpool FC,2,2
+537980,2026-01-04,Premier League,Leeds United FC,Manchester United FC,1,1
+537981,2026-01-04,Premier League,Manchester City FC,Chelsea FC,1,1
+537982,2026-01-04,Premier League,Newcastle United FC,Crystal Palace FC,2,0
+537983,2026-01-04,Premier League,Tottenham Hotspur FC,Sunderland AFC,1,1
+537994,2026-01-06,Premier League,West Ham United FC,Nottingham Forest FC,1,2
+537985,2026-01-07,Premier League,AFC Bournemouth,Tottenham Hotspur FC,3,2
+537986,2026-01-07,Premier League,Crystal Palace FC,Aston Villa FC,0,0
+537988,2026-01-07,Premier League,Brentford FC,Sunderland AFC,3,0
+537989,2026-01-07,Premier League,Burnley FC,Manchester United FC,2,2
+537990,2026-01-07,Premier League,Everton FC,Wolverhampton Wanderers FC,1,1
+537991,2026-01-07,Premier League,Fulham FC,Chelsea FC,2,1
+537992,2026-01-07,Premier League,Manchester City FC,Brighton & Hove Albion FC,1,1
+537993,2026-01-07,Premier League,Newcastle United FC,Leeds United FC,4,3
+537987,2026-01-08,Premier League,Arsenal FC,Liverpool FC,0,0
+537995,2026-01-17,Premier League,Sunderland AFC,Crystal Palace FC,2,1
+537998,2026-01-17,Premier League,Chelsea FC,Brentford FC,2,0
+537999,2026-01-17,Premier League,Liverpool FC,Burnley FC,1,1
+538000,2026-01-17,Premier League,Leeds United FC,Fulham FC,1,0
+538001,2026-01-17,Premier League,Manchester United FC,Manchester City FC,2,0
+538002,2026-01-17,Premier League,Nottingham Forest FC,Arsenal FC,0,0
+538003,2026-01-17,Premier League,Tottenham Hotspur FC,West Ham United FC,1,2
+537996,2026-01-18,Premier League,Aston Villa FC,Everton FC,0,1
+538004,2026-01-18,Premier League,Wolverhampton Wanderers FC,Newcastle United FC,0,0
+537997,2026-01-19,Premier League,Brighton & Hove Albion FC,AFC Bournemouth,1,1
+538005,2026-01-24,Premier League,AFC Bournemouth,Liverpool FC,3,2
+538009,2026-01-24,Premier League,Burnley FC,Tottenham Hotspur FC,2,2
+538011,2026-01-24,Premier League,Fulham FC,Brighton & Hove Albion FC,2,1
+538012,2026-01-24,Premier League,Manchester City FC,Wolverhampton Wanderers FC,2,0
+538014,2026-01-24,Premier League,West Ham United FC,Sunderland AFC,3,1
+538006,2026-01-25,Premier League,Crystal Palace FC,Chelsea FC,1,3
+538007,2026-01-25,Premier League,Arsenal FC,Manchester United FC,2,3
+538008,2026-01-25,Premier League,Brentford FC,Nottingham Forest FC,0,2
+538013,2026-01-25,Premier League,Newcastle United FC,Aston Villa FC,0,2
+538010,2026-01-26,Premier League,Everton FC,Leeds United FC,1,1
+538017,2026-01-31,Premier League,Brighton & Hove Albion FC,Everton FC,1,1
+538018,2026-01-31,Premier League,Chelsea FC,West Ham United FC,3,2
+538019,2026-01-31,Premier League,Liverpool FC,Newcastle United FC,4,1
+538020,2026-01-31,Premier League,Leeds United FC,Arsenal FC,0,4
+538024,2026-01-31,Premier League,Wolverhampton Wanderers FC,AFC Bournemouth,0,2
+538016,2026-02-01,Premier League,Aston Villa FC,Brentford FC,0,1
+538021,2026-02-01,Premier League,Manchester United FC,Fulham FC,3,2
+538022,2026-02-01,Premier League,Nottingham Forest FC,Crystal Palace FC,1,1
+538023,2026-02-01,Premier League,Tottenham Hotspur FC,Manchester City FC,2,2
+538015,2026-02-02,Premier League,Sunderland AFC,Burnley FC,3,0
+538031,2026-02-06,Premier League,Leeds United FC,Nottingham Forest FC,3,1
+538025,2026-02-07,Premier League,AFC Bournemouth,Aston Villa FC,1,1
+538027,2026-02-07,Premier League,Arsenal FC,Sunderland AFC,3,0
+538028,2026-02-07,Premier League,Burnley FC,West Ham United FC,0,2
+538029,2026-02-07,Premier League,Fulham FC,Everton FC,1,2
+538032,2026-02-07,Premier League,Manchester United FC,Tottenham Hotspur FC,2,0
+538033,2026-02-07,Premier League,Newcastle United FC,Brentford FC,2,3
+538034,2026-02-07,Premier League,Wolverhampton Wanderers FC,Chelsea FC,1,3
+538026,2026-02-08,Premier League,Brighton & Hove Albion FC,Crystal Palace FC,0,1
+538030,2026-02-08,Premier League,Liverpool FC,Manchester City FC,1,2
+538039,2026-02-10,Premier League,Chelsea FC,Leeds United FC,2,2
+538040,2026-02-10,Premier League,Everton FC,AFC Bournemouth,1,2
+538043,2026-02-10,Premier League,Tottenham Hotspur FC,Newcastle United FC,1,2
+538044,2026-02-10,Premier League,West Ham United FC,Manchester United FC,1,1
+538035,2026-02-11,Premier League,Sunderland AFC,Liverpool FC,0,1
+538036,2026-02-11,Premier League,Aston Villa FC,Brighton & Hove Albion FC,1,0
+538037,2026-02-11,Premier League,Crystal Palace FC,Burnley FC,2,3
+538041,2026-02-11,Premier League,Manchester City FC,Fulham FC,3,0
+538042,2026-02-11,Premier League,Nottingham Forest FC,Wolverhampton Wanderers FC,0,0
+538038,2026-02-12,Premier League,Brentford FC,Arsenal FC,1,1
+538094,2026-02-18,Premier League,Wolverhampton Wanderers FC,Arsenal FC,2,2
+538046,2026-02-21,Premier League,Aston Villa FC,Leeds United FC,1,1
+538048,2026-02-21,Premier League,Brentford FC,Brighton & Hove Albion FC,0,2
+538049,2026-02-21,Premier League,Chelsea FC,Burnley FC,1,1
+538051,2026-02-21,Premier League,Manchester City FC,Newcastle United FC,2,1
+538054,2026-02-21,Premier League,West Ham United FC,AFC Bournemouth,0,0
+538045,2026-02-22,Premier League,Sunderland AFC,Fulham FC,1,3
+538047,2026-02-22,Premier League,Crystal Palace FC,Wolverhampton Wanderers FC,1,0
+538052,2026-02-22,Premier League,Nottingham Forest FC,Liverpool FC,0,1
+538053,2026-02-22,Premier League,Tottenham Hotspur FC,Arsenal FC,1,4
+538050,2026-02-23,Premier League,Everton FC,Manchester United FC,0,1
+538064,2026-02-27,Premier League,Wolverhampton Wanderers FC,Aston Villa FC,2,0
+538055,2026-02-28,Premier League,AFC Bournemouth,Sunderland AFC,1,1
+538058,2026-02-28,Premier League,Burnley FC,Brentford FC,3,4
+538060,2026-02-28,Premier League,Liverpool FC,West Ham United FC,5,2
+538061,2026-02-28,Premier League,Leeds United FC,Manchester City FC,0,1
+538063,2026-02-28,Premier League,Newcastle United FC,Everton FC,2,3
+538056,2026-03-01,Premier League,Brighton & Hove Albion FC,Nottingham Forest FC,2,1
+538057,2026-03-01,Premier League,Arsenal FC,Chelsea FC,2,1
+538059,2026-03-01,Premier League,Fulham FC,Tottenham Hotspur FC,2,1
+538062,2026-03-01,Premier League,Manchester United FC,Crystal Palace FC,2,1
+538065,2026-03-03,Premier League,AFC Bournemouth,Brentford FC,0,0
+538068,2026-03-03,Premier League,Everton FC,Burnley FC,2,0
+538070,2026-03-03,Premier League,Leeds United FC,Sunderland AFC,0,1
+538074,2026-03-03,Premier League,Wolverhampton Wanderers FC,Liverpool FC,2,1
+538066,2026-03-04,Premier League,Aston Villa FC,Chelsea FC,1,4
+538067,2026-03-04,Premier League,Brighton & Hove Albion FC,Arsenal FC,0,1
+538069,2026-03-04,Premier League,Fulham FC,West Ham United FC,0,1
+538071,2026-03-04,Premier League,Manchester City FC,Nottingham Forest FC,2,2
+538072,2026-03-04,Premier League,Newcastle United FC,Manchester United FC,2,1
+538073,2026-03-05,Premier League,Tottenham Hotspur FC,Crystal Palace FC,1,3
+538075,2026-03-14,Premier League,Sunderland AFC,Brighton & Hove Albion FC,0,1
+538077,2026-03-14,Premier League,Arsenal FC,Everton FC,2,0
+538079,2026-03-14,Premier League,Burnley FC,AFC Bournemouth,0,0
+538080,2026-03-14,Premier League,Chelsea FC,Newcastle United FC,0,1
+538084,2026-03-14,Premier League,West Ham United FC,Manchester City FC,1,1
+538076,2026-03-15,Premier League,Crystal Palace FC,Leeds United FC,0,0
+538081,2026-03-15,Premier League,Liverpool FC,Tottenham Hotspur FC,1,1
+538082,2026-03-15,Premier League,Manchester United FC,Aston Villa FC,3,1
+538083,2026-03-15,Premier League,Nottingham Forest FC,Fulham FC,0,0
+538078,2026-03-16,Premier League,Brentford FC,Wolverhampton Wanderers FC,2,2
+538085,2026-03-20,Premier League,AFC Bournemouth,Manchester United FC,2,2
+538087,2026-03-21,Premier League,Brighton & Hove Albion FC,Liverpool FC,2,1
+538088,2026-03-21,Premier League,Everton FC,Chelsea FC,3,0
+538089,2026-03-21,Premier League,Fulham FC,Burnley FC,3,1
+538090,2026-03-21,Premier League,Leeds United FC,Brentford FC,0,0
+538086,2026-03-22,Premier League,Aston Villa FC,West Ham United FC,2,0
+538092,2026-03-22,Premier League,Newcastle United FC,Sunderland AFC,1,2
+538093,2026-03-22,Premier League,Tottenham Hotspur FC,Nottingham Forest FC,0,3
+538104,2026-04-10,Premier League,West Ham United FC,Wolverhampton Wanderers FC,4,0
+538097,2026-04-11,Premier League,Arsenal FC,AFC Bournemouth,1,2
+538098,2026-04-11,Premier League,Brentford FC,Everton FC,2,2
+538099,2026-04-11,Premier League,Burnley FC,Brighton & Hove Albion FC,0,2
+538101,2026-04-11,Premier League,Liverpool FC,Fulham FC,2,0
+538095,2026-04-12,Premier League,Sunderland AFC,Tottenham Hotspur FC,1,0
+538096,2026-04-12,Premier League,Crystal Palace FC,Newcastle United FC,2,1
+538100,2026-04-12,Premier League,Chelsea FC,Manchester City FC,0,3
+538103,2026-04-12,Premier League,Nottingham Forest FC,Aston Villa FC,1,1
+538102,2026-04-13,Premier League,Manchester United FC,Leeds United FC,1,2
+538107,2026-04-18,Premier League,Brentford FC,Fulham FC,0,0
+538108,2026-04-18,Premier League,Chelsea FC,Manchester United FC,0,1
+538110,2026-04-18,Premier League,Leeds United FC,Wolverhampton Wanderers FC,3,0
+538112,2026-04-18,Premier League,Newcastle United FC,AFC Bournemouth,1,2
+538114,2026-04-18,Premier League,Tottenham Hotspur FC,Brighton & Hove Albion FC,2,2
+538105,2026-04-19,Premier League,Aston Villa FC,Sunderland AFC,4,3
+538109,2026-04-19,Premier League,Everton FC,Liverpool FC,1,2
+538111,2026-04-19,Premier League,Manchester City FC,Arsenal FC,2,1
+538113,2026-04-19,Premier League,Nottingham Forest FC,Burnley FC,4,1
+538106,2026-04-20,Premier League,Crystal Palace FC,West Ham United FC,0,0
+538117,2026-04-21,Premier League,Brighton & Hove Albion FC,Chelsea FC,3,0
+538115,2026-04-22,Premier League,AFC Bournemouth,Leeds United FC,2,2
+538119,2026-04-22,Premier League,Burnley FC,Manchester City FC,0,1
+538116,2026-04-24,Premier League,Sunderland AFC,Nottingham Forest FC,0,5
+538118,2026-04-25,Premier League,Arsenal FC,Newcastle United FC,1,0
+538120,2026-04-25,Premier League,Fulham FC,Aston Villa FC,1,0
+538121,2026-04-25,Premier League,Liverpool FC,Crystal Palace FC,3,1
+538123,2026-04-25,Premier League,West Ham United FC,Everton FC,2,1
+538124,2026-04-25,Premier League,Wolverhampton Wanderers FC,Tottenham Hotspur FC,0,1
+538122,2026-04-27,Premier League,Manchester United FC,Brentford FC,2,1
+538131,2026-05-01,Premier League,Leeds United FC,Burnley FC,3,1
+538127,2026-05-02,Premier League,Arsenal FC,Fulham FC,3,0
+538128,2026-05-02,Premier League,Brentford FC,West Ham United FC,3,0
+538133,2026-05-02,Premier League,Newcastle United FC,Brighton & Hove Albion FC,3,1
+538134,2026-05-02,Premier League,Wolverhampton Wanderers FC,Sunderland AFC,1,1
+538125,2026-05-03,Premier League,AFC Bournemouth,Crystal Palace FC,3,0
+538126,2026-05-03,Premier League,Aston Villa FC,Tottenham Hotspur FC,1,2
+538132,2026-05-03,Premier League,Manchester United FC,Liverpool FC,3,2
+538129,2026-05-04,Premier League,Chelsea FC,Nottingham Forest FC,1,3
+538130,2026-05-04,Premier League,Everton FC,Manchester City FC,3,3
+538135,2026-05-09,Premier League,Sunderland AFC,Manchester United FC,0,0
+538136,2026-05-09,Premier League,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,3,0
+538139,2026-05-09,Premier League,Fulham FC,AFC Bournemouth,0,1
+538140,2026-05-09,Premier League,Liverpool FC,Chelsea FC,1,1
+538141,2026-05-09,Premier League,Manchester City FC,Brentford FC,3,0
+538137,2026-05-10,Premier League,Crystal Palace FC,Everton FC,2,2
+538138,2026-05-10,Premier League,Burnley FC,Aston Villa FC,2,2
+538142,2026-05-10,Premier League,Nottingham Forest FC,Newcastle United FC,1,1
+538144,2026-05-10,Premier League,West Ham United FC,Arsenal FC,0,1
+538143,2026-05-11,Premier League,Tottenham Hotspur FC,Leeds United FC,1,1
+538091,2026-05-13,Premier League,Manchester City FC,Crystal Palace FC,3,0
+538146,2026-05-15,Premier League,Aston Villa FC,Liverpool FC,4,2
+538148,2026-05-17,Premier League,Brentford FC,Crystal Palace FC,2,2
+538150,2026-05-17,Premier League,Everton FC,Sunderland AFC,1,3
+538151,2026-05-17,Premier League,Leeds United FC,Brighton & Hove Albion FC,1,0
+538152,2026-05-17,Premier League,Manchester United FC,Nottingham Forest FC,3,2
+538153,2026-05-17,Premier League,Newcastle United FC,West Ham United FC,3,1
+538154,2026-05-17,Premier League,Wolverhampton Wanderers FC,Fulham FC,1,1
+538147,2026-05-18,Premier League,Arsenal FC,Burnley FC,1,0
+538145,2026-05-19,Premier League,AFC Bournemouth,Manchester City FC,1,1
+538149,2026-05-19,Premier League,Chelsea FC,Tottenham Hotspur FC,2,1
+538155,2026-05-24,Premier League,Sunderland AFC,Chelsea FC,2,1
+538156,2026-05-24,Premier League,Brighton & Hove Albion FC,Manchester United FC,0,3
+538157,2026-05-24,Premier League,Crystal Palace FC,Arsenal FC,1,2
+538158,2026-05-24,Premier League,Burnley FC,Wolverhampton Wanderers FC,1,1
+538159,2026-05-24,Premier League,Fulham FC,Newcastle United FC,2,0
+538160,2026-05-24,Premier League,Liverpool FC,Brentford FC,1,1
+538161,2026-05-24,Premier League,Manchester City FC,Aston Villa FC,1,2
+538162,2026-05-24,Premier League,Nottingham Forest FC,AFC Bournemouth,1,1
+538163,2026-05-24,Premier League,Tottenham Hotspur FC,Everton FC,1,0
+538164,2026-05-24,Premier League,West Ham United FC,Leeds United FC,3,0
